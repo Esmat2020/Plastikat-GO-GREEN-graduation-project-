@@ -1,6 +1,6 @@
 # Plastikat GO GREEN 🍀🍃
 # Directly connecting plastic collectors with plastic consumers undersupervising of governments
-[![Plastikat-GO-GREEN-graduation-project-](https://img.youtube.com/vi/8S2gPRceb34)](https://www.youtube.com/watch?v=8S2gPRceb34)
+[![Plastikat GO GREEN graduation project](https://img.youtube.com/vi/8S2gPRceb34)](https://www.youtube.com/watch?v=8S2gPRceb34)
 
 # 1.1 Introduction
 Recently plastic became one of the most popular materials used in a wide variety of ways since it is lightweight, durable, inexpensive, and flexible where this flexibility makes it possible to be molded, extruded, or even pressed into solid objects of various shapes. This adaptability has led to its widespread use.
