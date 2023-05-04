@@ -1,6 +1,7 @@
 # Plastikat GO GREEN 🍀🍃
 # Directly connecting plastic collectors with plastic consumers undersupervising of governments
-![Screenshot (329)](https://user-images.githubusercontent.com/60976246/236134590-6c69c4ec-0ee0-4eac-9ea8-63463fbc4db1.png)
+[![Analysis and Modeling PlastiKat](https://img.youtube.com/vi/8S2gPRceb34)](https://www.youtube.com/watch?v=8S2gPRceb34)
+
 # 1.1 Introduction
 Recently plastic became one of the most popular materials used in a wide variety of ways since it is lightweight, durable, inexpensive, and flexible where this flexibility makes it possible to be molded, extruded, or even pressed into solid objects of various shapes. This adaptability has led to its widespread use.
 In developed economies, about a third of plastic is used in packaging and roughly the same in buildings in applications such as piping, plumbing, and vinyl siding. Other uses include automobiles, furniture, and toys. In the medical field, polymer implants and other medical devices are derived at least partially from plastic.
@@ -12,6 +13,7 @@ If we can help liberate the field of plastic collection and recycling from the h
 
 Through our application we try to discover a way to overcome these obstacles and help our users in the safe disposal of their plastic and help in the recycling process. Also, our application should help the companies concerned with recycling plastic to collect the plastic in an easy safe way to have a more green world.
 # 1.3 Project Stakeholders
+![Screenshot (329)](https://user-images.githubusercontent.com/60976246/236134590-6c69c4ec-0ee0-4eac-9ea8-63463fbc4db1.png)
 
 Shareholder
 The shareholders are the owners of Plastikat and the highest rank in the system. Their main concern is to help create a market for recycling the plastic waste locally in Egypt. They can monitor the process of trading the plastic and every user involved in it.
