@@ -58,7 +58,11 @@ Prezi is a multimedia presentation tool that can be used as an alternative to tr
 - Naive Bayes, Logistic Regression, Knn and Decision Tree Classifier.
 - KMeans Clustering to cluster users, companies per governorate.
 
-# Exploratory Data Analysis for Plastikat (graduation project) :
+# Exploratory Data Analysis for Plastikat (using Tableau) :
+![Screenshot 2022-07-09 081436](https://user-images.githubusercontent.com/60976246/236187063-46c568b4-036f-4d70-bc7f-eb794aa75766.png)
 
+# Exploratory Data Analysis for Plastikat (using R) :
 
-to visit click https://esmat2020.github.io/Analyzing-Plastikat-/
+![Screenshot (195)](https://user-images.githubusercontent.com/60976246/236187130-fe797960-5fe9-4424-a13f-e05b0b4d559a.png)
+
+![Screenshot (194)](https://user-images.githubusercontent.com/60976246/236187183-6bba31c6-415e-425b-a5c2-b76e1cba1aa9.png)
