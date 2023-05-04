@@ -1,6 +1,6 @@
 # Plastikat GO GREEN 🍀🍃
 # Directly connecting plastic collectors with plastic consumers undersupervising of governments
-![Screenshot (328)](https://user-images.githubusercontent.com/60976246/236132128-a8397e5c-68ce-4211-b605-71f29813d9db.png)
+![Screenshot (329)](https://user-images.githubusercontent.com/60976246/236134590-6c69c4ec-0ee0-4eac-9ea8-63463fbc4db1.png)
 # 1.1 Introduction
 Recently plastic became one of the most popular materials used in a wide variety of ways since it is lightweight, durable, inexpensive, and flexible where this flexibility makes it possible to be molded, extruded, or even pressed into solid objects of various shapes. This adaptability has led to its widespread use.
 In developed economies, about a third of plastic is used in packaging and roughly the same in buildings in applications such as piping, plumbing, and vinyl siding. Other uses include automobiles, furniture, and toys. In the medical field, polymer implants and other medical devices are derived at least partially from plastic.
