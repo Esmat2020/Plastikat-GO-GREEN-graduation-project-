@@ -1,6 +1,6 @@
 # Plastikat 
 # Directly connecting plastic collectors with plastic consumers undersupervising of governments
-![house_and_money_in_stacks](https://user-images.githubusercontent.com/60976246/208909373-ce235335-e2ba-4d56-88dc-19cfb525ef15.jpg)
+![Screenshot (328)](https://user-images.githubusercontent.com/60976246/236132128-a8397e5c-68ce-4211-b605-71f29813d9db.png)
 # 1.1 Introduction
 Recently plastic became one of the most popular materials used in a wide variety of ways since it is lightweight, durable, inexpensive, and flexible where this flexibility makes it possible to be molded, extruded, or even pressed into solid objects of various shapes. This adaptability has led to its widespread use.
 In developed economies, about a third of plastic is used in packaging and roughly the same in buildings in applications such as piping, plumbing, and vinyl siding. Other uses include automobiles, furniture, and toys. In the medical field, polymer implants and other medical devices are derived at least partially from plastic.
