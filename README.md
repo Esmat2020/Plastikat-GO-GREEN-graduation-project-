@@ -1,4 +1,4 @@
-# Plastikat 
+# Plastikat GO GREEN 🍀🍃
 # Directly connecting plastic collectors with plastic consumers undersupervising of governments
 ![Screenshot (328)](https://user-images.githubusercontent.com/60976246/236132128-a8397e5c-68ce-4211-b605-71f29813d9db.png)
 # 1.1 Introduction
